@@ -1,0 +1,28 @@
+@import '~../../style/variables.scss';
+
+.album-list {
+  .album-item {
+    padding: 12px 10px;
+    display: flex;
+    align-items: center;
+    // border-bottom: 1px solid #333;
+    .avatar {
+      margin-right: 16px;
+      img {
+        border-radius: 4px;
+        width: 45px;
+        height: 45px;
+      }
+    }
+    .name {
+      font-weight: bold;
+      font-size: 14px;
+      .date {
+        font-size: 10px;
+        font-weight: normal;
+        color: #666;
+        margin-top: 10px;
+      }
+    }
+  }
+}

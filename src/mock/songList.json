@@ -1,0 +1,25 @@
+{
+  "result": [
+    { "albumId": "2", "albumName": "24号的雨", "songId": "1416218403", "songName": "夜间公路" },
+    { "albumId": "1", "albumName": "碎日叙白", "songId": "1485224002", "songName": "在次日凌晨谈及过去" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "476532583", "songName": "海鸥" },
+    { "albumId": "1", "albumName": "碎日叙白", "songId": "1428351418", "songName": "静物" },
+    { "albumId": "2", "albumName": "24号的雨", "songId": "1363371800", "songName": "熬夜日记" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "534595453", "songName": "美丽的梦" },
+    { "albumId": "1", "albumName": "碎日叙白", "songId": "1398373124", "songName": "暮街" },
+    { "albumId": "1", "albumName": "碎日叙白", "songId": "1432239768", "songName": "重逢" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1440767287", "songName": "那时没有女朋友，整日弹琴喝啤酒" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1443186691", "songName": "大学南路北" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1420718546", "songName": "你好，2020" },
+    { "albumId": "2", "albumName": "24号的雨", "songId": "1439860647", "songName": "傍晚工厂，最后光亮" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1421603635", "songName": "失重事件" },
+    { "albumId": "2", "albumName": "24号的雨", "songId": "1465853467", "songName": "春烦" },
+    { "albumId": "1", "albumName": "碎日叙白", "songId": "1429126745", "songName": "云端有什么" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1451505117", "songName": "滑稽青年" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "486341429", "songName": "给你" },
+    { "albumId": "2", "albumName": "24号的雨", "songId": "493121362", "songName": "24号的雨" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "512225660", "songName": "梧桐" },
+    { "albumId": "0", "albumName": "那是没有女朋友，整日弹琴喝啤酒", "songId": "1339734521", "songName": "初雪的愿望" }
+  ],
+  "status": true
+}

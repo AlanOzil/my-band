@@ -1,0 +1,39 @@
+@import '~../../style/variables.scss';
+
+.music-list {
+  .music-item {
+    padding: 12px 4px;
+    display: flex;
+    align-items: center;
+    // border-bottom: 1px solid #333;
+    .index {
+      opacity: 0.6;
+      font-size: 14px;
+      width: 16px;
+      text-align: center;
+    }
+    .name {
+      font-size: 14px;
+      margin-left: 16px;
+      line-height: 20px;
+      font-weight: bold;
+    }
+    .album {
+      font-size: 10px;
+      color: #666;
+      font-weight: normal;
+    }
+    .playing {
+      svg {
+        path {
+          fill: $--color-primary;
+        }
+      }
+    }
+  }
+  .sub-title {
+    padding: 12px 10px 0;
+    font-size: 10px;
+    color: #999;
+  }
+}

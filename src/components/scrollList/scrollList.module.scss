@@ -1,0 +1,10 @@
+@import '~../../style/variables.scss';
+
+.scroll-list {
+  box-sizing: border-box;
+  background-color: $--color-bg;
+  padding: 0 10px;
+  color: #fff;
+  padding-bottom: calc(110px + 16px + congent(safe-area-inset-bottom));
+  padding-bottom: calc(110px + 16px + env(safe-area-inset-bottom));
+}

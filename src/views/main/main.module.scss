@@ -1,0 +1,6 @@
+@import '~../../style/variables.scss';
+.main-container {
+  width: 100%;
+  overflow: auto;
+  background-color: $--color-bg;
+}

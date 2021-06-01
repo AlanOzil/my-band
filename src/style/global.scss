@@ -1,0 +1,19 @@
+.fixed {
+  position: fixed;
+  z-index: 5;
+}
+.fixed-top {
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.fixed-bottom {
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.primary-bg {
+  background-color: $--color-bg;
+}
